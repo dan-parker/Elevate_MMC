@@ -1,2 +1,2 @@
 # Elevate_MMC
-Always run MMC as Elevated
+Always run MMC as Elevated (So no more right-click run as)
